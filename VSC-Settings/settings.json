@@ -1,0 +1,64 @@
+{
+    "editor.fontSize": 20,
+    "python.pythonPath": "C:\\Users\\NHAT_TRUONG\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.defaultFormatter": "vscode.git",
+    
+    "editor.tokenColorCustomizations": {
+    
+        "textMateRules": [
+        {
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#a595b3"
+            }
+        },
+        {
+            "scope":"source.python",
+            "settings": 
+            {
+                "foreground": "#ffffffbb"
+            }
+        },
+        {
+            "scope":"meta.member.access.python",
+            "settings": {
+                "foreground": "#199438"
+            }
+        }
+
+    ],
+   "strings": "#a5ad2c",
+   "functions": "#d0c751",
+   "types": "#e984e9",
+   "comments": "#928a8a",
+   "keywords": "#c01010",
+   "numbers": "#ce62bf",
+   "variables": "#0caf22"
+   },
+   "workbench.colorCustomizations": {
+
+       
+},
+"window.zoomLevel": 0,
+"sonarlint.ls.javaHome": "c:\\Users\\NHAT_TRUONG\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.9.1+1-jre",
+"launch": {
+    
+    "configurations": [],
+    "compounds": []
+},
+"liveServer.settings.donotVerifyTags": true,
+"liveServer.settings.donotShowInfoMsg": true,
+"editor.formatOnSave": true,
+"explorer.confirmDragAndDrop": false,
+"terminal.integrated.allowChords": false,
+"php.validate.executablePath": ""
+    
+}
